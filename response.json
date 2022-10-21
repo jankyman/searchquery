@@ -1,0 +1,601 @@
+{
+  "status": 200,
+  "responseCode": 1,
+  "response": {
+    "rows": [
+      {
+        "id": "ld1-1652172263098-1652172273869-1",
+        "title": "<I>Bonz Malone - \"The Slip Mahoney of Hip-Hop\" The Palladium '93</I>",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2015.132.334",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2015.132.334",
+            "unit_code": "NMAAHC",
+            "title_sort": "<I>BONZ MALONE - \"THE SLIP MAHONEY OF HIP-HOP\" THE PALLADIUM '93</I>",
+            "guid": "http://n2t.net/ark:/65665/fd57f1725f0-0284-44f0-b065-d369352421ff",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2015.132.334",
+            "title": {
+              "label": "Title",
+              "content": "<I>Bonz Malone - \"The Slip Mahoney of Hip-Hop\" The Palladium '93</I>"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "1990s"
+            ],
+            "geoLocation": [
+              {
+                "L5": {
+                  "type": "City",
+                  "content": "New York City"
+                }
+              },
+              {
+                "L3": {
+                  "type": "State",
+                  "content": "New York"
+                }
+              },
+              {
+                "L2": {
+                  "type": "Country",
+                  "content": "United States"
+                }
+              },
+              {
+                "L1": {
+                  "type": "Continent",
+                  "content": "North and Central America"
+                }
+              }
+            ],
+            "object_type": [
+              "Photographs"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "Limited Use"
+            ],
+            "name": [
+              "Powell, Ricky",
+              "Palladium",
+              "Malone, Bönz"
+            ],
+            "topic": [
+              "Photography",
+              "Hip-hop (Music)",
+              "Rappers (Musicians)",
+              "Actors and actresses"
+            ],
+            "place": [
+              "New York City",
+              "United States",
+              "North and Central America"
+            ],
+            "online_media_type": [
+              "Electronic resource",
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Collection title",
+                "content": "Eyejammie Hip-Hop Photography Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Media Arts-Photography"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "1993; printed 2003"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2015.132.334"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "A color photograph of Bönz Malone. Malone is depicted sitting in a folding theater chair in three-quarters profile. He is looking at the viewer with his legs resting over the chair back in front of him and his elbows wrapped around his knees. He is wearing jeans, a jean jacket over a red shirt, and a rainbow baseball cap with a red propeller on the top. Beneath the image is a handwritten inscription, [BONZ MALONE - \"THE SLIP MAHONEY OF HIP HOP / THE PALLADIUM '93]. Along with the photographer's signature [Ricky Powell]."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+              }
+            ],
+            "name": [
+              {
+                "label": "Photograph by",
+                "content": "Ricky Powell, American, 1961 - 2021"
+              },
+              {
+                "label": "Subject of",
+                "content": "Bönz Malone, American"
+              },
+              {
+                "label": "Subject of",
+                "content": "Palladium, American, 1927 - 1997"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Actors"
+              },
+              {
+                "label": "Topic",
+                "content": "Hip-hop (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Musicians"
+              },
+              {
+                "label": "Topic",
+                "content": "Photography"
+              },
+              {
+                "label": "Topic",
+                "content": "Rappers (Musicians)"
+              }
+            ],
+            "place": [
+              {
+                "label": "Place captured",
+                "content": "New York City, New York, United States, North and Central America"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "dye and photographic gelatin on photographic paper"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W (Sheet): 19 1/16 × 15 in. (48.4 × 38.1 cm)"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W (Image): 14 × 12 in. (35.6 × 30.5 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "© Ricky Powell"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "chromogenic color prints"
+              }
+            ]
+          }
+        },
+        "hash": "5b1919c25ce9fb300b882bd9758cec7a89c41b45",
+        "docSignature": "37d4edb8025dbf74373a7718bf2da6a5",
+        "timestamp": "1664355305",
+        "lastTimeUpdated": "1664355297",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398744968-0",
+        "title": "Banner for Public Enemy",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2011.33.1",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2011.33.1",
+            "unit_code": "NMAAHC",
+            "title_sort": "BANNER FOR PUBLIC ENEMY",
+            "guid": "http://n2t.net/ark:/65665/fd51e084ee9-2ecb-4721-9fa7-63de006eea54",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2011.33.1",
+            "title": {
+              "label": "Object Name",
+              "content": "Banner for Public Enemy"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "2000s",
+              "1980s"
+            ],
+            "exhibition": [
+              {
+                "exhibitionTitle": "A Changing America: 1968 and Beyond",
+                "building": "NMAAHC"
+              }
+            ],
+            "object_type": [
+              "Banners"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "No Known Copyright Restrictions"
+            ],
+            "name": [
+              "Public Enemy"
+            ],
+            "onPhysicalExhibit": [
+              "Yes"
+            ],
+            "topic": [
+              "Hip-hop (Music)",
+              "Rappers (Musicians)"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Memorabilia and Ephemera"
+              },
+              {
+                "label": "Exhibition",
+                "content": "A Changing America: 1968 and Beyond"
+              },
+              {
+                "label": "On View",
+                "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Concourse 1, C1 053"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "ca. 1992"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2011.33.1"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "A banner that the hip-hop group Public Enemy would hang behind them when performing at various gigs. The banner is made of black canvas with the Public Enemy logo printed in red acrylic paint bordered with white."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Public Enemy"
+              }
+            ],
+            "name": [
+              {
+                "label": "Created by",
+                "content": "Unidentified"
+              },
+              {
+                "label": "Subject of",
+                "content": "Public Enemy, American, founded 1982"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Hip-hop (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Rappers (Musicians)"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "acrylic paint and pressure-sensitive tape on canvas"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W: 74 x 69 in. (188 x 175.3 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "No Known Copyright Restrictions"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "banners"
+              }
+            ]
+          }
+        },
+        "hash": "091c796317e2a68b2f496b130ad71cc3dba3904d",
+        "docSignature": "c3647ffe517c7cc695872d2885aa69b3",
+        "timestamp": "1664355305",
+        "lastTimeUpdated": "1664355291",
+        "version": ""
+      },
+      {
+        "id": "ld1-1643398738600-1643398749945-0",
+        "title": "Photograph of Pitbull on the Venetian Bridge, downtown Miami",
+        "unitCode": "NMAAHC",
+        "type": "edanmdm",
+        "url": "edanmdm:nmaahc_2015.132.147",
+        "content": {
+          "descriptiveNonRepeating": {
+            "record_ID": "nmaahc_2015.132.147",
+            "unit_code": "NMAAHC",
+            "title_sort": "PHOTOGRAPH OF PITBULL ON THE VENETIAN BRIDGE, DOWNTOWN MIAMI",
+            "guid": "http://n2t.net/ark:/65665/fd59a7d3c86-a9ab-4b3e-90b8-60ed10445b8c",
+            "record_link": "https://nmaahc.si.edu/object/nmaahc_2015.132.147",
+            "title": {
+              "label": "Object Name",
+              "content": "Photograph of Pitbull on the Venetian Bridge, downtown Miami"
+            },
+            "metadata_usage": {
+              "access": "CC0"
+            },
+            "data_source": "National Museum of African American History and Culture"
+          },
+          "indexedStructured": {
+            "date": [
+              "2000s"
+            ],
+            "geoLocation": [
+              {
+                "L5": {
+                  "type": "City",
+                  "content": "Miami"
+                }
+              },
+              {
+                "L4": {
+                  "type": "County",
+                  "content": "Miami-Dade County"
+                }
+              },
+              {
+                "L3": {
+                  "type": "State",
+                  "content": "Florida"
+                }
+              },
+              {
+                "L2": {
+                  "type": "Country",
+                  "content": "United States"
+                }
+              },
+              {
+                "L1": {
+                  "type": "Continent",
+                  "content": "North and Central America"
+                }
+              }
+            ],
+            "object_type": [
+              "Portraits",
+              "Photographs",
+              "Prints"
+            ],
+            "culture": [
+              "African Americans"
+            ],
+            "online_media_rights": [
+              "Limited Use"
+            ],
+            "name": [
+              "Beverly, Julia",
+              "Pitbull"
+            ],
+            "topic": [
+              "Photography",
+              "Hip-hop (Music)",
+              "Rappers (Musicians)",
+              "Architecture",
+              "Latin hip-hop (Music)"
+            ],
+            "place": [
+              "United States",
+              "North and Central America",
+              "Miami-Dade County",
+              "Florida",
+              "Miami"
+            ],
+            "online_media_type": [
+              "Electronic resource",
+              "Images"
+            ]
+          },
+          "freetext": {
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "National Museum of African American History and Culture Collection"
+              },
+              {
+                "label": "Collection title",
+                "content": "Eyejammie Hip-Hop Photography Collection"
+              },
+              {
+                "label": "Classification",
+                "content": "Media Arts-Photography"
+              }
+            ],
+            "date": [
+              {
+                "label": "Date",
+                "content": "2004"
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Object number",
+                "content": "2015.132.147"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Description",
+                "content": "A color photograph of the rapper Pitbull posed on the Venetian Bridge in downtown Miami. Pitbull wears a black t-shirt with the word [HUSTLER] and a camouflage print baseball cap with the numbers [305]. He looks toward the camera with his hands clasped in front of him. On the back is an inscription written by Bill Adler with the subject, date, and photographer's name."
+              }
+            ],
+            "creditLine": [
+              {
+                "label": "Credit Line",
+                "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+              }
+            ],
+            "name": [
+              {
+                "label": "Photograph by",
+                "content": "Julia Beverly, American, born 1981"
+              },
+              {
+                "label": "Subject of",
+                "content": "Pitbull, American, born 1981"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "African American"
+              },
+              {
+                "label": "Topic",
+                "content": "Architecture"
+              },
+              {
+                "label": "Topic",
+                "content": "Hip-hop (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Latin hip-hop (Music)"
+              },
+              {
+                "label": "Topic",
+                "content": "Musicians"
+              },
+              {
+                "label": "Topic",
+                "content": "Photography"
+              },
+              {
+                "label": "Topic",
+                "content": "Rappers (Musicians)"
+              }
+            ],
+            "place": [
+              {
+                "label": "Place captured",
+                "content": "Miami, Miami-Dade County, Florida, United States, North and Central America"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Medium",
+                "content": "dye and photographic gelatin on photographic paper"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W (Sheet): 14 1/16 × 11 in. (35.7 × 27.9 cm)"
+              },
+              {
+                "label": "Dimensions",
+                "content": "H x W (Image): 13 7/16 × 9 1/16 in. (34.1 × 23 cm)"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "National Museum of African American History and Culture"
+              }
+            ],
+            "objectRights": [
+              {
+                "label": "Restrictions & Rights",
+                "content": "© Julia Beverly/Ozone Magazine"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Type",
+                "content": "chromogenic color prints"
+              },
+              {
+                "label": "Type",
+                "content": "portraits"
+              },
+              {
+                "label": "Type",
+                "content": "digital prints"
+              }
+            ]
+          }
+        },
+        "hash": "a642421bfa9f273660bc4b663cea9ba5aaa13b04",
+        "docSignature": "7f991b9c8e412be0603a17b60a71173a",
+        "timestamp": "1664355305",
+        "lastTimeUpdated": "1664355297",
+        "version": ""
+      }
+    ],
+    "rowCount": 19172,
+    "message": "content found"
+  }
+}
